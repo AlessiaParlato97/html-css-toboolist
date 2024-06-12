@@ -22,7 +22,10 @@ body {
     padding: 20px;
 }
 
-.container {}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
 
 .bg-white {
     background-color: white;
