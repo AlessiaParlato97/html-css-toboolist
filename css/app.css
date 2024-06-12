@@ -25,8 +25,25 @@ body {
 .container {
     max-width: 800px;
     margin: auto;
+    padding: 20px;
 }
 
 .bg-white {
     background-color: white;
+}
+
+.container-one {
+    margin-top: 2px;
+    padding-bottom: 20px;
+}
+
+.list {
+    padding: 20px 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+li {
+    padding: 5px 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
