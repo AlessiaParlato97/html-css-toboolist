@@ -82,3 +82,23 @@ ul {
 .ticket.rg-green-shy {
     background-color: rgb(80, 235, 80);
 }
+
+span {
+    display: inline;
+}
+
+
+
+
+.box {
+    padding: 10px;
+    background-color: rgb(64, 145, 232);
+    border-radius: 10px;
+}
+
+.box.second {
+
+    border: 1px solid black;
+    background-color: white;
+
+}
